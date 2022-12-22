@@ -43,9 +43,8 @@
       <img src="https://user-images.githubusercontent.com/79081307/202588740-9c1cee7e-cf66-4712-8963-1fb05114a077.png"/>
       <img src="https://user-images.githubusercontent.com/79081307/202591853-9ccf67fd-6a0f-4dad-9b07-a67b5a6d90d6.png"/>
       <img src="https://user-images.githubusercontent.com/79081307/202592573-616517f0-205a-4e6b-bc8a-a6901ef0e0b0.png"/>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg"/>
-      <img src="https://user-images.githubusercontent.com/79081307/202592589-6927f847-4796-45c7-aee0-62db0dc56dbd.png"/>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg"/>
+      <img src="https://user-images.githubusercontent.com/79081307/209087534-e56f64cd-09ba-41e9-97a3-c2d0cfb4eb5b.png"/>
+      <img src="https://user-images.githubusercontent.com/79081307/209088199-1c49ff29-9b40-4bfe-81dc-4c93759e8fa5.png"/>    
 </p>
 
    
