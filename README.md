@@ -51,8 +51,8 @@
 ## Statistics   
 
    <p align="center">
-      <img width="41%" src="https://github-readme-stats.vercel.app/api?username=Daebore&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=trueinclude_all_commits=true"/>
-      <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daebore&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true&langs_count=10include_all_commits=true"/>
+      <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Daebore&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=trueinclude_all_commits=true"/>
+      <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daebore&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true&langs_count=10include_all_commits=true"/>
    </p>
 
 
