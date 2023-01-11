@@ -12,7 +12,7 @@
 
    You can also check my Linkedin profile out: 
 
-       https://www.linkedin.com/in/javier-mar%C3%ADn-hern%C3%A1ndez-48309a18b/
+       www.linkedin.com/in/javimh93
        
 # Development
 
