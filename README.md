@@ -47,13 +47,10 @@
       <img src="https://user-images.githubusercontent.com/79081307/209087534-e56f64cd-09ba-41e9-97a3-c2d0cfb4eb5b.png"/>
       <img src="https://user-images.githubusercontent.com/79081307/209088199-1c49ff29-9b40-4bfe-81dc-4c93759e8fa5.png"/>    
 </p>
-
    
-## Statistics   
+### Statistics   
 
-   <p align="center">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Daebore&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=trueinclude_all_commits=true"/>
-      <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daebore&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true&langs_count=10include_all_commits=true"/>
-   </p>
-
-
+<p align="center">
+      <img width="60%" src="https://github-stats-alpha.vercel.app/api?username=Daebore&cc=0D1117&tc=4F93E3&ic=fff&bc=0D1117"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daebore&layout=compact&show_icons=true&bg_color=0D1117&text_color=4F93E3&title_color=4F93E3&border_color=3C434D&hide_border=true&langs_count=10"/>
+</p>
