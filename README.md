@@ -51,6 +51,6 @@
 ### Statistics   
 
 <p align="center">
-      <img width="50%" src="https://github-stats-alpha.vercel.app/api?username=Daebore&cc=0D1117&tc=4F93E3&ic=fff&bc=0D1117"/>
-           <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daebore&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
+      <img width="55%" src="https://github-stats-alpha.vercel.app/api?username=Daebore&cc=0D1117&tc=4F93E3&ic=fff&bc=0D1117"/>
+           <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daebore&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
 </p>
