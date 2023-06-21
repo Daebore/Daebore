@@ -7,7 +7,6 @@
   I have worked some years as a English teacher and now I am really into learning coding.
 
 - :computer: I am a junior programmer graduated in Cross-Platform Application Development Superior Grade Formative Course
-- :snake: At this moment I am studying python.
 - 🌱 Besides, I’m currently learning how to program Java applications for Android devices and Python in my free time.
 - 📫 If you want to contact me, you can send me an email: javier_m_h_1993@hotmail.com 
 
